@@ -5,7 +5,7 @@
 ### Definition
 Def 1 :Exisiting in multiple forms.
 
-Def 2 :Exisiting in multiple forms
+Def 2 : It is an object-oriented programming concept that refers to the ability of a variable, function, or object to take on multiple forms, which are when the behavior of the same object or function is different in different contexts.
 
 
 ### Types of Polymorphism
