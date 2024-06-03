@@ -1,8 +1,7 @@
 # 1. Classes And Objects
-
- Object-Oriented Programming is a methodology or paradigm to design a
-program using classes and objects. It simplifies the software development
-and maintenance by providing some concepts 
+A class is a user-defined data type that has data members and member functions. Data members are the data variables and member functions are the functions that are used to perform operations on these variables. An object is an instance of a class. Since a class is a user-defined data type so an object can also be called a variable of that data type.
+<BR>
+Object-Oriented Programming is a methodology or paradigm to design a program using classes and objects. It simplifies the software development and maintenance by providing some concepts.
 
 ### SPECIFYING A CLASS
 We are creating a new <i>abstract data type </i> that can be treated like any other built-in data type. Generally a class specification has two parts:
